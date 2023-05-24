@@ -1,4 +1,4 @@
-# Contract-bep20
+# Contract-bep20 Binance smart chain
 Code Beavis token contrat
 
 /**
